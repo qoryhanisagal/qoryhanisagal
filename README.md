@@ -14,6 +14,7 @@ With a focus on full stack development and design thinking, I bridge the gap bet
 In an ever-evolving digital world, I believe that the true value of technology lies not just in building solutions, but in creating meaningful, positive impacts on society.  
 
 My journey as a Full Stack Developer is driven by a commitment to adaptability, proactive innovation, and fostering environments where learning, collaboration, and creativity thrive.  
+
 I approach solution development with the belief that leadership is about empowering others, embracing challenges, and transforming them into opportunities for growth.  
 
 By championing open dialogue, user-centered design, and forward-thinking technologies, I strive to inspire change that drives collective success and builds a more connected, resilient world.
