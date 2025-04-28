@@ -32,7 +32,7 @@ By championing open dialogue, user-centered design, and forward-thinking technol
 ---
 
 ### 📫 Connect with Me
-- 📬 Email: [hello@descoteaux.io](mailto:hello@descoteaux.io)
+- 📬 Email: [sequoyah.dozier@icloud.com](mailto:sequoyah.dozier@icloud.com)
 - 🌐 Portfolio: [Coming Soon](#) <!-- update with your live link later -->
 - 💼 LinkedIn: [linkedin.com/in/sequoyahdozier](https://linkedin.com/in/sequoyahdozier)
 - 🖥️ GitHub: [github.com/qoryhanisagal](https://github.com/qoryhanisagal)
