@@ -1,4 +1,5 @@
-![GitHubBanner2025](https://github.com/user-attachments/assets/1a77c609-11dc-4520-8238-9c38814fc2b7)
+
+![GitHubBanner2025](https://github.com/user-attachments/assets/06c2d268-a3a6-4819-bc92-c431c3934f3e)
 
 # Hi, I'm Sequoyah Dozier 👋
 
