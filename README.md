@@ -3,7 +3,7 @@
 
 # Hi, I'm Sequoyah Dozier 👋
 
-🎯 Full Stack Developer | UX/UI Designer | Creative Problem Solver
+Aspiring Full Stack Developer | UX/UI Designer | Creative Problem Solver
 
 I'm passionate about building beautiful, functional web applications that create seamless experiences for users.  
 With a focus on full stack development and design thinking, I bridge the gap between technical functionality and human-centered design.
