@@ -10,7 +10,7 @@ With a focus on full stack development and design thinking, I bridge the gap bet
 
 ---
 
-### 🚀 About Me
+### About Me
 In an ever-evolving digital world, I believe that the true value of technology lies not just in building solutions, but in creating meaningful, positive impacts on society.  
 
 My journey as a Full Stack Developer is driven by a commitment to adaptability, proactive innovation, and fostering environments where learning, collaboration, and creativity thrive.  
@@ -21,7 +21,7 @@ By championing open dialogue, user-centered design, and forward-thinking technol
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 - 📚 **Languages:** JavaScript, Python (learning)
 - 💻 **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwinds CSS, Daisy UI, Next.js (learning)
 - 🧩 **Backend:** Django (learning), Flask (learning), Node.js (learning), Express.js (learning), MongoDB (learning), Firebase(learning)
