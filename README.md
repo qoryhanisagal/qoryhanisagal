@@ -22,12 +22,12 @@ By championing open dialogue, user-centered design, and forward-thinking technol
 ---
 
 ### Tech Stack
-- 📚 **Languages:** JavaScript, Python (learning)
-- 💻 **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwinds CSS, Daisy UI, Next.js (learning)
+- 📚 **Languages:** Python (learning)
+- 💻 **Frontend:** HTML5, CSS3, JavaScript (learning), React.js (learning), Tailwinds CSS, Daisy UI, Next.js (learning)
 - 🧩 **Backend:** Django (learning), Flask (learning), Node.js (learning), Express.js (learning), MongoDB (learning), Firebase(learning)
 - ⚛️ **APIs:** REST API (learning), RESTful API principles (learning)
-- 🎨 **Design:** Figma, Adobe XD, Canva
-- 🧰 **Tools:** Git, GitHub, Vercel, Visual Studio Code
+- 🎨 **Design:** Figma, Adobe XD (learning), Canva
+- 🧰 **Tools:** Git, GitHub, Visual Studio Code
 
 ---
 
